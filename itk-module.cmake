@@ -10,6 +10,8 @@ itk_module(MGHIO
     ITKTestKernel
     ITKTransform
   EXCLUDE_FROM_DEFAULT
+  IMAGE_IOS
+    MGH
   DESCRIPTION
     "${DOCUMENTATION}"
 )
